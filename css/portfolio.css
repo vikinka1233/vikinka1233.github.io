@@ -1,0 +1,63 @@
+.body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+.strong {
+  color: #222324;
+}
+
+.description {
+	background-image: url("../img/floral.jpg");
+	background-size: 25vh;
+	height: 500px;
+	background-repeat: repeat-x;
+
+}
+
+.navbar {
+  background-color: #ba2ab5;
+  font-family: "Open Sans", Arial, sans-serif;
+
+}
+
+.card-img-top{
+    display: block;
+  margin: 0 auto;
+  height: auto;
+   width: 75%; 
+   position: center;
+-webkit-border-radius: 50%;
+-moz-border-radius: 50%;
+-ms-border-radius: 50%;
+-o-border-radius: 50%;
+border-radius: 50%; 
+}
+
+.central {
+
+	text-align: center;
+}
+
+
+#myAnchor{
+	text-align: left;
+
+
+}
+.card-block{
+	text-align: left;
+
+}
+
+.fa-address-card {
+	width: 23px
+	height: 21.94;
+
+}
+.card-title{
+	color: #db6bd7;
+	font-family: "Open Sans", Arial, sans-serif;
+
+}

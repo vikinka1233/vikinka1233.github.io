@@ -1,0 +1,53 @@
+body{
+	font-family: 'Rammetto One', cursive;
+	background-color: transparent;
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+
+
+.background-img{
+	background-image: url(../img/bath.gif);
+	height: 100vh;
+	background-size: cover;
+}
+
+
+.first-p{
+	color: pink;
+
+}
+
+.text-header{
+	color: white;
+	padding-top: 30vh;
+	text-align: center;
+}
+
+
+.bye{
+	background-image: url(../img/coffee.gif);
+	color: white;
+	height: 100vh;
+	padding-top: 20vh;
+	text-align: center;
+	background-size: cover;
+}
+.my-icon{
+
+	font-size: 100px;
+	color: black
+}
+.red{
+	background-color: #E9967A;
+
+
+}
+.blue{
+	background-color: #FF69B4;
+}
+.black{
+	background-color: #FFF0F5;
+}
